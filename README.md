@@ -1,11 +1,11 @@
 先进的.NET开源工作流快速开发平台 - [RoadFlow]
 ========
 
- [RoadFlow] 是 [路德软件][RoadFlow] 旗下集成工作流引擎的 .NET 快速开发平台，由从事六年以上OA及工作流开发与实施的团队设计开发，该工作流平台已应用于众多大型企事业单位。拥有全浏览器兼容的可视化流程设计器、表单设计器、基于角色的权限管理等先进设计理念，是您开发 **OA、CRM、HR** 等企事业各种应用管理系统的最佳基础平台。 [路德软件][RoadFlow] 兼承 “ **开放 分享 进步** ” 的原则,对 [RoadFlow] 工作流引擎开源，希望与广大工作流开发者共同进步！
+ [RoadFlow] 是 [天知软件][RoadFlow] 旗下集成工作流引擎的 .NET 快速开发平台，由从事六年以上OA及工作流开发与实施的团队设计开发，该工作流平台已应用于众多大型企事业单位。拥有全浏览器兼容的可视化流程设计器、表单设计器、基于角色的权限管理等先进设计理念，是您开发 **OA、CRM、HR** 等企事业各种应用管理系统的最佳基础平台。 [天知软件][RoadFlow] 兼承 “ **开放 分享 进步** ” 的原则,对 [RoadFlow] 工作流引擎开源，希望与广大工作流开发者共同进步！
 
  平台基于 **.Net** 的 **B/S** 架构开发，需要 **.Net Framework 4.0** 以上版本和 **IIS6.0** 以上运行环境。数据库支持 **SQLServer2005** 以上版本,也可以扩展支持 **MySql,Oracle** 等数据库（需要自己实现数据访问层）。
 
-<img src="http://www.cqroad.cn/Images/img01.png">
+<img src="http://www.roadflow.net/Images/img01.png">
 
 # 平台特点
 
@@ -17,19 +17,19 @@
   * 可视化的流程设计器，使流程从设计到运行都可采用图形化展现
 
 ###可视化流程设计器
-<img src="http://www.cqroad.cn/Images/img02.png">
+<img src="http://www.roadflow.net/Images/img02.png">
 
  [RoadFlow] 可视化流程设计器基于 JavaScript Library 进行二次开发，和其它流程设计器相比无需Flash，Silverlight等第三方插件支持，并且完全兼容IE6+，Firefox，Google等浏览器。
 ###快捷的表单设计器
-<img src="http://www.cqroad.cn/Images/img03.png">
+<img src="http://www.roadflow.net/Images/img03.png">
 
  工作流表单设计器是在第三方html编辑器的基础上增加自定义的流程表单控件，通过可视化设计使表单控件和流程相关数据库表关联，以在流程流转过程中对业务流据的查看和更新。
 ###轻量的客户端框架
-<img src="http://www.cqroad.cn/Images/img04.png">
+<img src="http://www.roadflow.net/Images/img04.png">
 
  **RoadFlow** 没有采用 **Extjs** 等第三方富客户端框架，而是团队自己基于**jquery** 开发的轻量级客户端 - **RoadUI** ，该框架轻量，快速，易上手，对客户端性能消耗较低。
 
-官方站点：<http://www.cqroad.cn/>
+官方站点：<http://www.roadflow.net>
 
 联系QQ：	**493501010**
 
@@ -66,7 +66,7 @@
 ### 软件包
 现在官方已经自带定制版的 [LitJson] ，不再需要自己手动添加才能全部编译。
 
-[RoadFlow]:http://www.cqroad.cn
+[RoadFlow]:http://www.roadflow.net
 [GitHub]:https://github.com
-[git@osc]:http://git.oschina.net
+[git@osc]:http://gitee.com
 [LitJson]:https://github.com/lbv/litjson/
